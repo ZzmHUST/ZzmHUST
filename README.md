@@ -5,7 +5,6 @@
   </a>
 </div>
 
-<!-- 增加空行 -->
 <br>
 
 <!-- 徽章 -->
@@ -14,7 +13,6 @@
   <img src="https://img.shields.io/github/followers/ZzmHUST?label=Followers&style=social" />
 </div>
 
-<!-- 增加空行 -->
 <br>
 
 ---
@@ -31,7 +29,6 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- 变小：每行6个图标，整体缩小 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,ros,linux,git,pytorch&perline=6&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,docker,ubuntu,vscode,cmake,matlab&perline=6&theme=dark" />
@@ -46,14 +43,8 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZzmHUST&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzmHUST&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZzmHUST&theme=onedark&row=1&column=6&no-frame=true&margin-w=15" />
 </div>
