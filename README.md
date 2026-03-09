@@ -19,7 +19,7 @@
 
 ### 🤖 About Me
 
-- 🎓 **华中科大 机器人工程** 本科 (GPA: 86/100)
+- 🎓 **HUST ROBOTICS** 
 - 🔬 **Research Interest**: 灵巧操作 (Dexterous Manipulation) | 扩散策略 (Diffusion Policy)
 - 🦿 **Current Project**: 四足爬墙机器人 (12-DOF, 15kg payload, 200kg·cm torque)
 - 🎯 **Goal**: MSc/MPhil in HK/SG → PhD in Robotics/AI
@@ -29,8 +29,6 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ros,linux,git,pytorch&perline=6&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,docker,ubuntu,vscode,cmake,matlab&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ros,linux,git,pytorch,docker&perline=7&theme=dark" />
 </div>
 
